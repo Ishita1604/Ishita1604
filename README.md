@@ -1,3 +1,4 @@
+![logo](https://github.com/Ishita1604/Ishita1604/blob/main/BannerLogo.jfif)
 <h1 align="center">Hi 👋, I'm Ishita Gupta</h1>
 <h3 align="center">A passionate Computer Science Undergraduate from India</h3>
 
