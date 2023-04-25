@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishita1604" alt="ishita1604" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m proficient in **C++** and have a strong hold in **DSA**
+
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **ishitagupta1604@gmail.com**
 
